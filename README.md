@@ -143,13 +143,7 @@ yolo task=detect mode=predict model=runs/detect/train/weights/best.pt source=ima
 
 - The order of classes in `names` list must exactly match the class ids used in labels.
 
----
 
-## License
-
-This project is licensed under the MIT License.
-
----
 
 ## Contact
 
