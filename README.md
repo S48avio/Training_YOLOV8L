@@ -122,13 +122,13 @@ yolo task=detect mode=predict model=runs/detect/train/weights/best.pt source=ima
 ## Sample Images
 
 ### Training Image Example  
-![Training Image](images/train/sample_train.jpg)
+![Training Image](1.png)
 
 ### Test Image Example  
-![Test Image](images/test/sample_test.jpg)
+![Test Image](k.webp)
 
 ### Output After Training  
-![Prediction Output](runs/detect/predict/sample_test.jpg)
+![Prediction Output](k.jpg)
 
 ---
 
