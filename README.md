@@ -128,7 +128,7 @@ yolo task=detect mode=predict model=runs/detect/train/weights/best.pt source=ima
 ![Test Image](k.webp)
 
 ### Output After Training  
-![Prediction Output](k.jpg)
+![Prediction Output](k nano.jpg)
 
 ---
 
