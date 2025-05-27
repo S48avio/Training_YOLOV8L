@@ -96,7 +96,7 @@ yolo task=detect mode=train model=yolov8s.pt data=data.yaml epochs=50 imgsz=640
 
 - `task=detect`: object detection task  
 - `mode=train`: train mode  
-- `model=yolov8s.pt`: use pretrained YOLOv8 small weights  
+- `model=yolov8n.pt`: use pretrained YOLOv8 small weights  
 - `data=data.yaml`: path to dataset config  
 - `epochs=50`: number of epochs  
 - `imgsz=640`: input image size
